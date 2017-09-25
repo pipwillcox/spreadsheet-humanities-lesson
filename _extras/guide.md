@@ -76,7 +76,7 @@ data in this format for the other tools we'll be using.
 #### Concluding points
 
 * Now your data is organized so that a computer can read and understand it. This
-let's you use the full power of the computer for your analyses as we'll see in the
+lets you use the full power of the computer for your analyses as we'll see in the
 rest of the workshop. 
 * While your data is now neatly organized, it still might have errors or missing data
 or other problems. It's like you put all your data in the right drawers, but the
